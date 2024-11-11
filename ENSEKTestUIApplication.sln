@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENSEKTestUIApplication", "ENSEKTestUIApplication.csproj", "{0EF22BEC-A72B-46AA-AA4F-DF7EDC99D502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF22BEC-A72B-46AA-AA4F-DF7EDC99D502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF22BEC-A72B-46AA-AA4F-DF7EDC99D502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF22BEC-A72B-46AA-AA4F-DF7EDC99D502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF22BEC-A72B-46AA-AA4F-DF7EDC99D502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {935BB47F-356D-4E78-853A-2DDCEB9C924F}
+	EndGlobalSection
+EndGlobal

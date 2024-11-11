@@ -1,0 +1,11 @@
+﻿{
+  "TestConfig": {
+    "TargetUrl": "https://ensekautomationcandidatetest.azurewebsites.net/",
+    //Headless,UI
+    "SeleniumUIMode": "UI",
+    //Chrome,Firefox
+    "BrowserType": "Chrome"
+    //TODO
+    //User details, Browserstack details for remote run
+  }
+}
