@@ -1,6 +1,8 @@
-**Specflow BDD Framework
-Web UI Automation Framework using Specflow
-Built with**
+**Specflow BDD Framework**
+
+**Web UI Automation Framework using Specflow**
+
+Built with
 Specflow
 Selenium
 NUnit
